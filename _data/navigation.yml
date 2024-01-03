@@ -1,0 +1,17 @@
+# main links links
+main:
+  - title: "Publications"
+    url: /publications/
+
+  - title: "Teaching"
+    url: /teaching/    
+    
+  - title: "Professional Experience"
+    url: /professionalexperience/
+        
+  - title: "Awards"
+    url: /awards/
+    
+  - title: "CV"
+    url: /cv/
+    
