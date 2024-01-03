@@ -11,9 +11,9 @@ title                    : "Pawan Poojary"
 title_separator          : "-"
 name                     : &name "Pawan Poojary"
 description              : &description "personal description"
-url                      : https://swetasamala.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://pawan18.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "swetasamala/swetasamala.github.io"
+repository               : "Pawan18/pawan18.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Pawan R Poojary"
+  name             : "Pawan Poojary"
   avatar           : "profile.png"
   bio              : "Doctoral student at Northwestern University"
   location         : "Chicago"
