@@ -2,7 +2,7 @@
 permalink: /publications/
 title: "Publications:"
 author_profile: true
-paperurl: 'http://swetasamala.github.io/_pages/NU_CV_Pawan.pdf'
+paperurl: 'http://pawan18.github.io/_pages/NU_CV_Pawan.pdf'
 redirect_from: 
   - /md/
   - /publications.html
