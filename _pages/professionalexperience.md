@@ -8,14 +8,14 @@ redirect_from:
 ---
 
 * Sept 2018 to Present - **Teaching Assistant at Northwestern University**
-  The work included delivering few lectures, conducting tutorial classes and doubt-solving sessions, and grading assignments and examinations for the following courses:
-  - ELEC ENG 422: Random Processes in Communications & Control - Winter 2020, 2021
-  - GEN ENG 205: Engineering Analysis 1 - Fall 2021
+  - The work included delivering few lectures, conducting tutorial classes and doubt-solving sessions, and grading assignments and examinations for the following courses:
+    - ELEC ENG 422: Random Processes in Communications & Control - Winter 2020, 2021
+    - GEN ENG 205: Engineering Analysis 1 - Fall 2021
 * June - Aug 2020: **Research Intern at Futurewei Technologies**
   • eXtended Reality (XR) traffic model for Split-Computing architecture: We focussed on XR delivery. where the UE (Head Mounted Display) tethered to the users smartphone, off-loads the real-time rendering of the virtual environment to the XR server
 (back-end) through the 5G Network.
 * July 2015 to June 2018 - **Teaching Assistant at IIT Madras** 
-  The work included delivering few lectures, conducting tutorial classes and doubt-solving sessions, setting up weekly assignments and grading assignments and examinations for the following course:
+  - The work included delivering few lectures, conducting tutorial classes and doubt-solving sessions, setting up weekly assignments and grading assignments and examinations for the following course:
     – EE5110 Probability foundations (computational) - Jan 2016
     – EE5110 Probability foundations (measure-theoretic) - July 2016, July 2017
     – EE5121 Convex Optimization - Jan 2017, Jan 2018
