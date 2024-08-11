@@ -11,7 +11,7 @@ I am a doctoral student in the Communications and Networking [Commnet](https://s
 
 In particular, I have worked on understanding the effects of different social factors (eg. fake actions, ex-ante-biases, tie-breaking rules, mean-field interactions) on information cascades in sequential observational learning settings.
 
-Prior to joining Northwestern, I obtained my M.S. (by Research) in Electrical Engineering from [Indian Institute of Technology, Madras](https://www.iitm.ac.in/) under the guidance of [Prof. Dr. Krishna Jagannathan](https://www.ee.iitm.ac.in/~krishnaj/) and [Prof. Dr. Sharayu Moharir (IIT Bombay)](https://www.ee.iitb.ac.in/web/people/sharayu-moharir/). There, my research focussed on the design and analysis of novel caching policies for CDNs, that aim to optimize cache performance under freshness constraints imposed by delay sensitive applications.
+Prior to joining Northwestern, I obtained my M.S. (by Research) in Electrical Engineering from [Indian Institute of Technology, Madras](https://www.iitm.ac.in/) under the guidance of [Prof. Dr. Krishna Jagannathan](https://www.ee.iitm.ac.in/~krishnaj/) and [Prof. Dr. Sharayu Moharir](https://www.ee.iitb.ac.in/web/people/sharayu-moharir/) (IIT Bombay). There, my research focussed on the design and analysis of novel caching policies for CDNs, that aim to optimize cache performance under freshness constraints imposed by delay sensitive applications.
 
 Research Interests
 ======
