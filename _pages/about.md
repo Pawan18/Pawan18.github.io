@@ -22,22 +22,14 @@ Research Interests
 
 Education                                                                                    
 ======                                                                                       
-* **Doctor of Philosophy, Electrical Engineering** - September 2018 - Present
+* **Ph.D. in Electrical Engineering, Ongoing** 
   - Northwestern University, Evanston, IL.
-  - Advisor: Dr. Randall Berry.
     
-* **Master of Science, Electrical Engineering** - July 2015 - August 2018
+* **M.S. (by Research) in Electrical Engineering** - 2018
   - Indian Institute of Technology Madras, Chennai, India.
-  - Advisors:
-    - Dr. Krishna Jagannathan,
-      - Indian Institute of Technology Madras, Chennai, India.
-    - Dr. Sharayu Moharir,
-      - Indian Institute of Technology Bombay, Mumbai, India.
-
-* **Bachelor of Engineering, Electronics Engineering,** - July 2010 - May 2014
-  - Vidyalankar Institute Of Technology,
-    - Mumbai University, Mumbai, India.
-
+  
+* **B.E. in Electronics Engineering** - 2014
+  - University of Mumbai
 
 
 
