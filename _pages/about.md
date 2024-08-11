@@ -22,7 +22,7 @@ Research Interests
 
 Education                                                                                    
 ======                                                                                       
-* **Ph.D. in Electrical Engineering, Ongoing** 
+* **Ph.D. in Electrical Engineering** - Ongoing
   - Northwestern University, Evanston, IL.
     
 * **M.S. (by Research) in Electrical Engineering** - 2018
